@@ -1,0 +1,1556 @@
+[
+  {
+    "id": 0,
+    "image": "/content/drive/MyDrive/sanket/0.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': '\u201cUnsubscribe here\u201d is grayed out in front of a gray background, making it harder to see.'}]"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "image": "/content/drive/MyDrive/sanket/1.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Clicking the \u201cX\u201d to close the ad clicks the \u201cdownload from the Google Play Store\u201d button, which was not the user\u2019s intention.'}]"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "image": "/content/drive/MyDrive/sanket/2.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The typical case of forced continuity: free for one month then lapses into paid service. Also, (unsure if this is a dark pattern) the entire image shown here is the button to be clicked, not just the orange CTA button.'}]"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "image": "/content/drive/MyDrive/sanket/3.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The radio button for a free first next directory is already checked, but if the user doesn\u2019t read the fine print they will unknowingly consent to a credit check and having a credit account opened, which sends brochures 4x a year at a cost of \u00a33.75 each, which are normally free from most businesses'}]"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/content/drive/MyDrive/sanket/4.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unless the user reads the fine print, they may unwillingly sign up for email notifications and more'}]"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/content/drive/MyDrive/sanket/5.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Dropdown list is written so that typing \u201c1\u201d enters in \u201c10\u201d, not \u201c1\u201d.'}]"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/content/drive/MyDrive/sanket/6.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The room is advertised as an $86.43 room. This entices users into using the site to purchase a hotel; however, the final price after taxes and fees of $132.34 (higher than the hotel cost) is $218.77! The site should not advertise for $86 if the total is 250% of that!'}]"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/content/drive/MyDrive/sanket/7.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When a user creates an account on Boston Globe, the email subscription checkboxes are already checked, and the \u201cPrice Today\u201d is not the price paid in the future. To find the future price, the user must go to the FAQ section of the website'}]"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/content/drive/MyDrive/sanket/8.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'On any page, there is a non-removable banner that claims the user can subscribe for only 99 cents per week, but if you follow the process to subscribe, the user finds out that this price only lasts for 4 weeks'}]"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/content/drive/MyDrive/sanket/9.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Large popup ad with tiny \u201cx\u201d button, so the user is more likely to accidentally touch the ad'}]"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/content/drive/MyDrive/sanket/10.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'United distracts the user with two large \u201cNo additional charge\u201d boxes, but includes possible baggage fees in small print.'}]"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "/content/drive/MyDrive/sanket/11.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site prompts the user to sign up for their newsletter. The option for choosing \u201cno\u201d is smaller and uses a demeaning phrase to make the user feel bad about their choice.'}]"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "/content/drive/MyDrive/sanket/12.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When prompted for updating the user\u2019s OS to Windows 10, the X button (normally to close the window) resulted in proceeding with the update.'}]"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "/content/drive/MyDrive/sanket/13.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'iOS 6 hides the option to disable ad tracking in an irrelevant location and uses trick wording (double negative) to confuse the user'}]"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "/content/drive/MyDrive/sanket/14.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Ads periodically appear at the bottom of the screen if the user has not paid for the ad-free version. The placement of the ad when it appears is where the \u201crefresh\u201d and \u201csidebar\u201d buttons are usually located, so the user may accidentally touch the ad out of habit.'}]"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "/content/drive/MyDrive/sanket/15.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user must go to the FAQ to find out how to cancel an account, which requires calling the Boston Globe by phone.'}]"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "/content/drive/MyDrive/sanket/16.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Users are required to subscribe to the newsletter to create an account'}]"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "/content/drive/MyDrive/sanket/17.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user must apply for a free account to browse jobs, but still must buy a premium account to apply for the job. Text highlighting is disabled through javascript, so the job cannot be searched for easily elsewhere, where it is free to apply for. In addition, the one-month membership option continues payment when it expires, which is stated in small fine print.'}]"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "/content/drive/MyDrive/sanket/18.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The instructions for the user to unsubscribe are very unclear because there is only a \u201cback\u201d and a \u201ccancel\u201d button available. How is a user able to proceed with unsubscribing?'}]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "/content/drive/MyDrive/sanket/19.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Attempts every trick in the book to keep user from unsubscribing, from manipulinks to offering a discount if they stay. End result is a 100-click unsubscribe process.'}]"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "/content/drive/MyDrive/sanket/20.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Once the user selects \u201cannual\u201d from an initial drop down box, the drop down box disappears and the user\u2019s choice is solidified and cannot be changed unless the user goes back.'}]"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "/content/drive/MyDrive/sanket/21.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unsubscribe link is buried in a mass of fine print and is difficult to find.'}]"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "/content/drive/MyDrive/sanket/22.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The Washington Post has a confusing checkbox when unsubscribing that makes it unclear whether or not the user is unsubscribing from a service.'}]"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "/content/drive/MyDrive/sanket/23.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When users say \u201cno\u201d to multiple people in a row, they are more likely to say \u201cno\u201d when they mean to say \u201cyes\u201d. Tinder takes advantage of this by making the user pay to undo their mistake.'}]"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "/content/drive/MyDrive/sanket/24.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Stamps.com makes it difficult to close an account on their site by requiring the user to call a phone number during business hours to do so. They also hide this information on their site in the frequently asked questions section to make it difficult to find out how to cancel the service.'}]"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "/content/drive/MyDrive/sanket/25.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The website asks the user to either wait 20 seconds or click a Google+ \u201c+1\u201d button to prove that they are human. Most users will not want to wait 20 seconds to access the site, so they may click the \u201c+1\u201d for a reason they would normally not.'}]"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "/content/drive/MyDrive/sanket/26.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'This online gambling site offers users generous \u2018bonuses\u2019 which are essentially free money for the express use of gambling on the site. What is not made clear, however, is that the bonus money and any winnings won therewith cannot be withdrawn until a certain number of bets have been made on specific areas of the site.'}]"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "/content/drive/MyDrive/sanket/27.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Yahoo uses confusing options when trying to unsubscribe from their newsletter. The design encourages users to click \u201cno, cancel\u201d because they want to cancel their subscription, but to actually cancel, the user must select one of the small, light grey text options below the big blue button.'}]"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "/content/drive/MyDrive/sanket/28.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user is pressured to turn on notifications, and there is only the option for \u201cnot now\u201d and \u201cok\u201d. If the user does not want to turn on notifications, there is not option for that, and the app will continue to bother them about it.'}]"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "/content/drive/MyDrive/sanket/29.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'LinkedIn manipulates the user into sending an invitation to all their contacts by making the scroll bar at the side small and hard to notice.'}]"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "/content/drive/MyDrive/sanket/30.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When a driver tries to stop for the day, the Uber app prompts them to continue in order to achieve an arbitrary \u201cgoal\u201d for the day. It even goes so far as to highlight the \u201ckeep driving\u201d option to make selecting it easier. This takes advantage of a person\u2019s natural desire to \u201cincome target\u201d, or set a income goal for the day.'}]"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "/content/drive/MyDrive/sanket/31.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Instead of the usual blank stories section, Facebook includes \u201cghost stories\u201d of your friends that haven\u2019t posted a story in a while when there are no stories available. When the user clicks on it it tells the user that your friend hasn\u2019t posted to their story in a while.'}]"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "/content/drive/MyDrive/sanket/32.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'This ad appears to the user as a game, and it uses flash to make it interactive. When the user moves their cursor around the ad, the target moves with it. When the user clicks to \u201cstomp\u201d the spider, the user is taken to a different site.'}]"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "/content/drive/MyDrive/sanket/33.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The radio button for express (which includes a free trial) is already selected, but the option for custom input with no free trial is grey, but still clickable. The options also include tags like (recommended) or (advanced). So using their service, which the user will eventually have to pay for, is recommended, while not, is \u201cadvanced\u201d.'}]"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "/content/drive/MyDrive/sanket/34.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Some check boxes are opt-in while others are opt-out, thus tricking users that skim the fine print.'}]"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "/content/drive/MyDrive/sanket/35.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The \u201cUnsubscribe here\u201d link is hidden as white text on a white background.'}]"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "/content/drive/MyDrive/sanket/36.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'To start each game, users must select a green button. When the app prompts the user to buy more moves, the button is also green and in almost the same location as the button to start a game. As users develop muscle memory in response to constantly restarting the game, they may accidentally click on the option to buy more moves when they run out.'}]"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "image": "/content/drive/MyDrive/sanket/37.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Trick question using a double negative might maker the user share information they didn\u2019t want to'}]"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "image": "/content/drive/MyDrive/sanket/38.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'User has to select \u201ccancel\u201d four times to cancel'}]"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "image": "/content/drive/MyDrive/sanket/39.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Opting in to marketing emails is in the terms and conditions, the user doesn\u2019t have a choice'}]"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "image": "/content/drive/MyDrive/sanket/40.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site prominently displays a ticking counter of visitors\u2019 winnings since 1995, but viewing the site through a foreign proxy reveals that the number isn\u2019t exchange-rate accurate, just arbitrarily set somewhere in the 33,000,000.00+ range, regardless of currency or region. This works in Dollars, Euros, Pounds, and Kroner.'}]"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "image": "/content/drive/MyDrive/sanket/41.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Instead of letting users simply deactivate their account, Facebook shows users some of their friends that \u201cwould miss them\u201d and also tries to convince the user to stay offering a counter-argument to whatever reason they select.'}]"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "image": "/content/drive/MyDrive/sanket/42.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site uses shaming to convince users that they would be better off using their service. The site tries to make the user feel bad for choosing an option the site deems \u201cbad\u201d. What if the user already uses the service? They would still have to click the shameful response.'}]"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "image": "/content/drive/MyDrive/sanket/43.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Salesforce requires users to consent to a privacy statement before they can successfully unsubscribe from their newsletter. The privacy statement gives consent to sell the user\u2019s information to other countries.'}]"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "image": "/content/drive/MyDrive/sanket/44.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When giving anything other than a five-star rating, the user is given a compulsory prompt to message the developers which dissuades users from bothering to rate anything less than five stars, if they rate anything at all.'}]"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "image": "/content/drive/MyDrive/sanket/45.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'There is no option to select no, there are only options to \u201ctry now\u201d or \u201clater.\u201d'}]"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "image": "/content/drive/MyDrive/sanket/46.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'How can a user unsubscribe from all mail? The page is very unclear and the user should be able to select multiple options.'}]"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "image": "/content/drive/MyDrive/sanket/47.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'LinkedIn attempts to import your email\u2019s address book. It then poses your email contacts as potential connections, causing you to send a spammy \u201cJohn Doe invited you to join LinkedIn\u201d email to them.'}]"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "image": "/content/drive/MyDrive/sanket/48.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Spotify offers an opt-in private mode, but requires the user to re-up every 6 hours.'}]"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "image": "/content/drive/MyDrive/sanket/49.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'TurboTax pretends to delete your past information when you don\u2019t upgrade to premium.'}]"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "image": "/content/drive/MyDrive/sanket/50.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site tries to get users to use the site more by making the experience better for those with more popularity or experience. Possible dark pattern aimed towards casual users.'}]"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "image": "/content/drive/MyDrive/sanket/51.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When twitter updated their email notifications, they automatically opted all their users in to the service.'}]"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "image": "/content/drive/MyDrive/sanket/52.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When the user tries to delete the app, Uber warns that while the app will delete all data on the phone, it will keep data in the cloud. This is vague, but concerning if the user values their online privacy. If the user doesn\u2019t read the text or reads it quickly, they may not notice that their data will be kept in the cloud.'}]"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "image": "/content/drive/MyDrive/sanket/53.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When an update is available, the user is unable to shutdown or restart their operating system without updating.'}]"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "image": "/content/drive/MyDrive/sanket/54.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The download site wupload tries to get users to buy \u201cpremium\u201d download speeds, and also includes links to a \u201cMake money\u201d ad scheme.'}]"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "image": "/content/drive/MyDrive/sanket/55.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site tries to get users to get a demo, but the alternate option appears to be disabled. It also only links to monster.com, which is a job finding site. So if users don\u2019t want to use their service, they can find a job on monster.com instead.'}]"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "image": "/content/drive/MyDrive/sanket/56.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Tries to get the user to subscribe to their mailing list by making the user click on a shameful option if they do not wish to. What if the user already subscribes to this service?'}]"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "image": "/content/drive/MyDrive/sanket/57.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Trump Headquarters sent out this email with a biased \u201cpoll\u201d shaming users into selecting the first option. If you select the first option, the link takes the user to a page asking for money. If you select the second option, it takes the user to a page asking if they stand with Trump.'}]"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "image": "/content/drive/MyDrive/sanket/58.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Tries to get the user to subscribe to their mailing list by making the user click on a shameful option if they do not wish to. What if the user already subscribes to this service?'}]"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "image": "/content/drive/MyDrive/sanket/59.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Dribble shows a likely fake animation of tickets for concerts selling out quickly, to panic users into buying a ticket as soon as possible, while simultaneously warning them that \u201cless than 1% of tickets left\u201d and that some amount of users are currently viewing the event'}]"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "image": "/content/drive/MyDrive/sanket/60.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unsubscribe link is the same font and color as the rest of the text, all of which is low-profile, low-contrast text to appear as unimportant on the bottom of the email.'}]"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "image": "/content/drive/MyDrive/sanket/61.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The big green button does NOT, in fact, unsubscribe you from emails, the link for that is further down.'}]"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "image": "/content/drive/MyDrive/sanket/62.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Java hides the option to suppress sponsor ads deep in their menu under the advanced section at the very bottom. It seems that they were trying to hide this feature so that users wouldn\u2019t be able to find it easily and disable it.'}]"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "image": "/content/drive/MyDrive/sanket/63.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Twitter gives a \u201ctime out\u201d to users that have been deemed \u201cabusive\u201d or \u201cbullies\u201d. The time out doesn\u2019t disable their account, it only makes their posts able to be seen by their followers during the time limit. This ensures that if someone else is rude or offensive they cannot offend anyone that didn\u2019t want to see their content.'}]"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "image": "/content/drive/MyDrive/sanket/64.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'A large green button says \u201cStart Free Trial\u201d, but in smaller writing below it says every subsequent year is $10.99. The skip button is also small and at the bottom.'}]"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "image": "/content/drive/MyDrive/sanket/65.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unsubscribing from email list requires clicking an unlabeled button.'}]"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "image": "/content/drive/MyDrive/sanket/66.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site attempts to evoke empathy in the user for the sad phone that doesn\u2019t want them to leave. Some users may be susceptible to this emotional appeal while others may not be.'}]"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "image": "/content/drive/MyDrive/sanket/67.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When a user registers for an account, they are given an option to accept the terms and conditions at the top of a long list of small text. Hidden in the long list of text is a small checkbox to opt out of the bank selling the user\u2019s information.'}]"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "image": "/content/drive/MyDrive/sanket/68.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Tries to get the user to subscribe to their mailing list by making the user click on a shameful option if they do not wish to. What if the user already subscribes to this service?'}]"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "image": "/content/drive/MyDrive/sanket/69.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Tries to get the user to subscribe to their mailing list by making the user click on a shameful option if they do not wish to. What if the user already subscribes to this service?'}]"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "image": "/content/drive/MyDrive/sanket/70.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Popular Mechanics tries to get users to subscribe to their email list by making them click on a shameful response if they don\u2019t want to. What is users are already subscribed?'}]"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "image": "/content/drive/MyDrive/sanket/71.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The website prompts the user to have it proofread their document, and shames them if they select no'}]"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "image": "/content/drive/MyDrive/sanket/72.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Ryanair hides the opt-out for travel insurance inside a drop-down list of countries to choose insurance for. Because there is no explicit \u201cDo not ensure me\u201d option, customers may pay for travel insurance they would not have if given the option.'}]"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "image": "/content/drive/MyDrive/sanket/73.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Clicking the continue button automatically agrees to the terms and conditions, but the text that describes this is very small.'}]"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "image": "/content/drive/MyDrive/sanket/74.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'What seems to be the obvious \u201ccontinue\u201d button is in fact a re-subscribe button. Users may accidentally click this button and resubscribe to what they intended to unsubscribe from.'}]"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "image": "/content/drive/MyDrive/sanket/75.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Yelp disguises ads to look similar to customer reviews, and puts them in the same area as reviews are posted.'}]"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "image": "/content/drive/MyDrive/sanket/76.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Yahoo distracts users that are updating their security preferences with a huge ad.'}]"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "image": "/content/drive/MyDrive/sanket/77.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Twitter wanted users to discover their new feature \u201cdiscover\u201d, so they put it in the location where notifications usually is, so that people would naturally click on the old spot due to muscle memory and discover the new feature.'}]"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "image": "/content/drive/MyDrive/sanket/78.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Lootcrate highlights the \u201cKeep my subscription\u201d button when unsubscribing in an attempt to get users to click it instead of completing the unsubscribing process.'}]"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "image": "/content/drive/MyDrive/sanket/79.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The green button authorizes an additional donation, while the white back arrow actually continues without the donation'}]"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "image": "/content/drive/MyDrive/sanket/80.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site opens this pop-up, ironically on an article about Dark Patterns. The big blue button allows the user to connect their twitter account, but the option the follow the site\u2019s twitter is already checked.'}]"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "image": "/content/drive/MyDrive/sanket/81.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user can unknowingly sign up for a membership to the site when they purchase something unless they read the fine print in the terms and conditions'}]"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "image": "/content/drive/MyDrive/sanket/82.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When setting up java, the preselected \u201crecommended\u201d option actually changed the user\u2019s default search engine to yahoo, which the user might not want. It also changes your homepage to yahoo.com.'}]"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "image": "/content/drive/MyDrive/sanket/83.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unsubscribe link is buried in a paragraph of small text, and leads to an unpictured landing page that requires the user to re-enter their Email address to unsubscribe instead of pausing the subscription for 30 days.'}]"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "image": "/content/drive/MyDrive/sanket/84.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The game uses a purchasable in-game currency to blur users\u2019 recognition of the value they\u2019re transferring.\\n\u201cResearch has shown that putting even one intermediate currency between the consumer and real money, such as a \u201cgame gem\u201d (premium currency), makes the consumer much less adept at assessing the value of the transaction.\u201d -Ramin Shokrizade'}]"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "image": "/content/drive/MyDrive/sanket/85.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The first four results of a google search for \u201cflowers\u201d are ads disguised as search results. They have a small green tag that identifies them as ads, but many users will not notice this and click on the ads anyways.'}]"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "image": "/content/drive/MyDrive/sanket/86.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'This site shames the user into staying on the site by presenting the user with a sad, crying cartoon that wants the user to stay.'}]"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "image": "/content/drive/MyDrive/sanket/87.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The game pressues users to invite friends, not because the game is fun, but because certain features/goals are useless/unaccessible without online friends also playing, in what the paper in this list calls a \u201cSocial Pyramid Scheme\u201d.'}]"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "image": "/content/drive/MyDrive/sanket/88.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Very tiny close button makes the user assume they need to login to use the service'}]"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "image": "/content/drive/MyDrive/sanket/89.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Sling makes it difficult to unsubscribe from their newsletter and makes the user go through 5 pages of \u201cAre you sure?\u201ds and dark patterns like misdirection of buttons.'}]"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "image": "/content/drive/MyDrive/sanket/90.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'OSX warns its user that disk space is almost full and that they should optimize their storage space. When the user chooses to optimize storage, it pushes the use of iCloud on the user.'}]"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "image": "/content/drive/MyDrive/sanket/91.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Amazon doesn\u2019t actually show the real average in their star ratings on products, they use machine learning to calculate the ratings while taking into account certain factors.'}]"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "image": "/content/drive/MyDrive/sanket/92.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user is forced to accept the use of cookies on the site or they cannot continue.'}]"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "image": "/content/drive/MyDrive/sanket/93.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Esquire attempts to make users feel bad about their decision by making them click a button that says \u201cI don\u2019t read\u201d instead of the usual \u201cNo, thanks\u201d button'}]"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "image": "/content/drive/MyDrive/sanket/94.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site has the user select confusing options for what they actually want to do. OK proceeds to cancel the order, and cancel returns to the order.'}]"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "image": "/content/drive/MyDrive/sanket/95.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Delta makes upgrading to first class or higher look like a mandatory option.'}]"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "image": "/content/drive/MyDrive/sanket/96.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Unlock limited content by submitting 10 documents or by paying'}]"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "image": "/content/drive/MyDrive/sanket/97.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The user\u2019s eye is drawn to the large \u201cTotal Price\u201d highlighted with a green background. This price; however, does not include the fees listed below in the non-highlighted section. This tricks the user into believing they are paying a lower price than they are.'}]"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "image": "/content/drive/MyDrive/sanket/98.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Uses the same color throughout the page, allowing content to be missed by the user'}]"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "image": "/content/drive/MyDrive/sanket/99.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Defaults to subcription instead of one-time purchase'}]"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "image": "/content/drive/MyDrive/sanket/100.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'This is an ad designed to look like a download button for the software that site visitors are trying to access.'}]"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "image": "/content/drive/MyDrive/sanket/101.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Sports Direct sneaks an item into the customers cart when they go to checkout.\\xa0To remove it, the user must click \u201cback to bag\u201d, where the sneaked-in item will appear \u2013 even though it didn\u2019t before.'}]"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "image": "/content/drive/MyDrive/sanket/102.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The first set of tic boxes corresponds to means through which the user does not\\xa0want to receive information , while the second set of tic boxes corresponds to means through which the user does wish to receive information. A user could easily be tricked into signing up for a service they don\u2019t want.'}]"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "image": "/content/drive/MyDrive/sanket/103.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site makes it appear that the answer to the question is behind a paywall, but it is really at the bottom of the page, which is accessible without paying. The website is trying to trick users into paying for a subscription.'}]"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "image": "/content/drive/MyDrive/sanket/104.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'When a user finishes the episode they are currently watching, Netflix automatically proceeds to the next episode after a countdown.'}]"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "image": "/content/drive/MyDrive/sanket/105.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'User must select \u201cMore info\u201d to be able to opt out of sharing information and email spam.'}]"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "image": "/content/drive/MyDrive/sanket/106.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site designs the check boxes to appear as radio buttons so the user is more inclined to select only one.'}]"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "image": "/content/drive/MyDrive/sanket/107.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The site uses a fake countdown timer that only loops when it reaches zero to pressure the user into buying.'}]"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "image": "/content/drive/MyDrive/sanket/108.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'Voting ballot from 10 April 1938. The ballot text reads \u201cDo you agree with the reunification of Austria with the German Reich that was enacted on 13 March 1938, and do you vote for the party of our leader Adolf Hitler?\u201d The large circle is labelled \u201cYes\u201d, the smaller \u201cNo\u201d.\\nThe circle size discrepancy is notable enough as a dark pattern, but also the joining of two very separate questions into one answer is a dark pattern.'}]"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "image": "/content/drive/MyDrive/sanket/109.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'On their signup page, Doostang defaults to the basic Premium plan in an attempt to get users to accidentally sign up for their premium service. A more ethical design would simply default to no selection so the user can decide what they want to select for themselves.'}]"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "image": "/content/drive/MyDrive/sanket/110.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<image>\nDoes the following image have a deceptive pattern?"
+      },
+      {
+        "from": "gpt",
+        "value": "[{'from': 'human', 'value': '<image>\\nDoes the following image have a deceptive pattern?'}, {'from': 'gpt', 'value': 'The game occasionally gives players levels that are impossible to complete in order to urge them to buy powerups or extra lives. If the player doesn\u2019t purchase anything from the game, it will slowly decrease the difficulty in order to retain playability.'}]"
+      }
+    ]
+  }
+]
