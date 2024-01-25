@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main Page</title>
+    <link rel="stylesheet" type="text/css" href="dist/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+</head>
+
+<body class="bg-black font-firaCode border-white border-2">
+    <div class="extensionContainer w-[25rem] h-[40rem] flex flex-col justify-center items-center p-5 space-y-5">
+        <h2 class="text-4xl font-extrabold text-[#57E6D9] capitalize text-center">Dark Pattern Recogniser</h2>
+
+        <div class="flex flex-col items-center space-y-4">
+            <button
+                class="bg-white font-semibold hover:scale-110 transition-all duration-200 text-black px-4 py-3 rounded-md"
+                id="getElement" title="Identify" >Identify Dark Pattern Elements
+            </button>
+            <button
+                class="bg-white font-semibold hover:scale-110 transition-all duration-200 text-black px-4 py-3 rounded-md"
+                id="getElementOnHover" title="Identify on hover">Identify Dark Pattern Elements
+                on hover
+            </button>
+        </div>
+
+        <h3 id="demo" style="color: white;"></h3>
+        <h2 id="demo1" style="color: red;font-size: 50px;"></h3>
+        <h4 id="demo2" style="color: white;"></h4>
+        <h4 id="demo3" style="color: white;"></h4>
+        <h4 id="demo4" style="color: white;"></h4>
+
+        <script>
+            // function myFunction() {
+            //     document.getElementById("demo").innerHTML = "Dark pattern detected"
+            //     document.getElementById("demo1").innerHTML = "3"
+            //     document.getElementById("demo2").innerHTML = "Confirm Shaming"
+            //     document.getElementById("demo3").innerHTML = "False Urgency"
+            //     document.getElementById("demo4").innerHTML = "Misdirection"
+
+               
+            // }
+        </script>
+
+
+
+
+    </div>
+    <script src="popup.js"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</body>
+
+</html>
