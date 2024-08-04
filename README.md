@@ -1,6 +1,6 @@
 # DPdetector
 Dark pattern detection
-Introducing "DPdetector," an innovative web browser extension designed for proactive Dark Pattern Recognition. Unlike traditional ad blockers, DPdetector enhances user awareness by highlighting deceptive patterns without blocking content. The extension introduces a hover feature, allowing users to selectively highlight ads when hovering over them, providing real-time feedback on the deceptive nature of the ad.
+Introducing "DPdetector," an innovative web browser extension designed for proactive Dark Pattern Recognition. Unlike traditional ad blockers, DPdetector enhances user awareness by highlighting deceptive patterns without blocking content. The extension introduces a hover feature, allowing users to selectively highlight ads when hovering over them, providing real-time feedback on the deceptive nature of the ads.
 
 Key Features:
 
